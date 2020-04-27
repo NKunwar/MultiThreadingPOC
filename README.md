@@ -1,2 +1,2 @@
 # MultiThreadingPOC
-A simple &amp; incomplete PoC on Multi Threading in Java
+A simple BUT incomplete PoC on Multi Threading in Java
